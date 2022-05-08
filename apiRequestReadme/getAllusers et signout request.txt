@@ -1,0 +1,4 @@
+
+Get  localhost:8080/api/auth/users
+
+Post localhost:8080/api/auth/signout

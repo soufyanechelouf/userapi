@@ -1,0 +1,1 @@
+Get localhost:8080/api/auth/username?param=user1

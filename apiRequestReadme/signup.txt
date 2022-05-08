@@ -1,0 +1,8 @@
+
+Post localhost:8080/api/auth/signup
+{
+    "username":"user2",
+    "email":"user2@email.com",
+    "password":"1234567",
+    "role":["new","admin"]
+}

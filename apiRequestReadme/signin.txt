@@ -1,0 +1,10 @@
+
+Post localhost:8080/api/auth/signin
+{
+    
+    "username":"user2",
+  
+    "password":"1234567"
+  
+    
+}

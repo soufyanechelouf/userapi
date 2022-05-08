@@ -1,0 +1,12 @@
+Put localhost:8080/api/auth/update2/3
+
+{
+    "username":"user3updated",
+    "email":"user3updated@email.com",
+    "password":"1234567updated",
+    "role":["sup","user"]
+}
+
+----------------------------------------
+
+Delete localhost:8080/api/auth/delete/2
